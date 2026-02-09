@@ -34,10 +34,22 @@ It identifies suspicious processes and allows controlled termination with user c
 Process-Threat-Management-System/
 
 ~~~
+Process-Threat-Management-System/
+│
 ├── README.md
+│
 ├── docs/
+│   ├── architecture.md
+│   ├── working.md
+│   ├── use-cases.md
+│   ├── interview-notes.md
+│   └── windows-scope.md
+│
 ├── linux/
-└── screenshots/
+│   └── malicious_process_detector.sh
+│
+├── screenshots/
+│   └── linux-detection.png
 ~~~
 
 ---
@@ -68,7 +80,8 @@ This screenshot shows the execution of the process detection script on a clean s
 
 ## Documentation
 
-Detailed notes are available in the docs/ folder.
+Detailed notes are available in the [`docs`](./docs) folder.
+
 
 ## Future Enhancements
 
@@ -77,5 +90,7 @@ Windows implementation using PowerShell
 ## Author
 
 Rachana S Shekar
+
 Self-initiated cybersecurity learner
+
 M.E in Cybersecurity | B.E in ECE
