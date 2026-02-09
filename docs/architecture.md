@@ -26,3 +26,5 @@ The Process Threat Management System follows a simple, linear architecture desig
 ## Design Focus
 
 The architecture emphasizes safety, simplicity, and clarity, making it suitable for learning and demonstration purposes.
+
+....
