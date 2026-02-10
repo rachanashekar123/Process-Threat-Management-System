@@ -74,7 +74,7 @@ Root access is required for full process visibility.
 ### Linux Process Scan Output
 This screenshot shows the execution of the process detection script on a clean system.
 
-![Linux Output](screenshots/linux-detection.png)
+![Linux Output](Screenshots/linux-detection.png)
 
 
 
@@ -94,3 +94,4 @@ Rachana S Shekar
 Self-initiated cybersecurity learner
 
 M.E in Cybersecurity | B.E in ECE
+
